@@ -1,0 +1,13 @@
+{
+  "pre": {
+    "user": "Gustavo.Avella",
+    "password": "GusAndina2!",
+    "url":"https://andinavidasegurospre.linktic.com/",
+    "url_otp":"https://andinavidasegurospreprodbackend.linktic.com/identityserver/api/v1/otp/send-otp",
+    "key": "yavella@andinavidaseguros.com.co"
+  },
+  "dev": {
+    "user": "Kevin.Guerrero",
+    "password": "KevGue2025*"
+  }
+}
